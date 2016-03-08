@@ -47,3 +47,7 @@ How might using version control make you more confident to make changes that cou
 
 
 Now that you have your workspace set up, what do you want to try using Git for?
+
+What happens when you initialize a repository? Why do you need to do it?
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
